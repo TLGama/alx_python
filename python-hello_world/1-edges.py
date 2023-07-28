@@ -1,5 +1,4 @@
 word = "Holberton"
-# YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
 word_first_3 = "Hol"
 word_last_2 = "on"
 middle_word = "olberto"
